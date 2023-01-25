@@ -1,5 +1,8 @@
 # TypeScript Next.js example
 
+![Screenshot (72)](https://user-images.githubusercontent.com/93249038/214515656-b7f55f63-9254-4573-8df0-67e628bd0133.png)
+
+
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
 ## Deploy your own
